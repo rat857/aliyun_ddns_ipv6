@@ -1,4 +1,4 @@
-# 阿里云DDNS 转自https://github.com/timwai/aliyunDDNS太好用了，怕被删，留个备份
+# 阿里云DDNS 转自"https://github.com/timwai/aliyunDDNS" 太好用了，怕被删，留个备份
 * 为go设置代理
 ```shell
 export GO111MODULE=on
