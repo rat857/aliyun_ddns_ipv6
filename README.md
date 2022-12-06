@@ -4,6 +4,8 @@
 export GO111MODULE=on
 export GOPROXY=https://goproxy.io
 source /etc/profile
+git clone https://ghproxy.com/https://github.com/rat857/aliyun_ddns_ipv6.git
+go build
 ```
 
 * 支持IPV4/IPV6
