@@ -1,4 +1,11 @@
-# 阿里云DDNS
+# 阿里云DDNS 转自https://github.com/timwai/aliyunDDNS太好用了，怕被删，留个备份
+* 为go设置代理
+```shell
+export GO111MODULE=on
+export GOPROXY=https://goproxy.io
+source /etc/profile
+```
+
 * 支持IPV4/IPV6
 * 当type=AAAA时为IPV6，其它则为IPV4
 
